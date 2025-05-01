@@ -4,7 +4,7 @@ Este projeto foi desenvolvido como parte do curso **Fundamentos de Linguagem Pyt
 
 ## 🔧 Ferramentas Utilizadas
 
-- **Python 3.x**
+- **Python**
 - **Pandas** — manipulação e análise de dados
 - **NumPy** — suporte a operações numéricas
 - **Datetime** — tratamento de datas
